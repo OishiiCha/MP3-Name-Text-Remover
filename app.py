@@ -23,6 +23,6 @@ def rename_files(folder_path, text_to_remove):
 
 # Example usage
 folder_path = str(input("Input folder location: "))
-text_to_remove = str(input("String to remove: ")
+text_to_remove = str(input("String to remove: "))
 
 rename_files(folder_path, text_to_remove)
